@@ -1,13 +1,13 @@
 ﻿Console.Clear();
 // Напишите программу, которая подсчитывает количество четных элементов в массиве целых 
 // положительных трехзначных чисел и выводит результат на экран.
-// int[] a = generateArray();
-// printArray(a);
-// System.Console.WriteLine();
-// System.Console.WriteLine("четные получи :");
-// countEvenElements(a);
-// System.Console.WriteLine("нечетные получи :");
-// SumOddElements(a);
+int[] a = generateArray();
+printArray(a);
+System.Console.WriteLine();
+System.Console.WriteLine("четные получи :");
+countEvenElements(a);
+System.Console.WriteLine("нечетные получи :");
+SumOddElements(a);
 
 //Напишите программу для работы с массивом вещественных чисел.
 double[] b = randomDoubleArray();
