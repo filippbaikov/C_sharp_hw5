@@ -1,0 +1,15 @@
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.csproj.AssemblyReference.cache
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.AssemblyInfoInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.AssemblyInfo.cs
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.csproj.CoreCompileInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\bin\Debug\net6.0\dz_5_lesson.exe
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\bin\Debug\net6.0\dz_5_lesson.deps.json
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\bin\Debug\net6.0\dz_5_lesson.runtimeconfig.json
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\bin\Debug\net6.0\dz_5_lesson.dll
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\bin\Debug\net6.0\dz_5_lesson.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.dll
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\refint\dz_5_lesson.dll
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\dz_5_lesson.genruntimeconfig.cache
+C:\Users\zelib\OneDrive\Рабочий стол\less_5_Csharp\dz_5_lesson\obj\Debug\net6.0\ref\dz_5_lesson.dll
